@@ -1,0 +1,34 @@
+<div class="catalogContainer">
+
+	<div class="headColumns">
+		<div class="headContainer" ng-show="!newPostClick">
+				<div ng-click="newPostClick=!newPostClick"  class="makeNewPost">
+					Make New Thread
+				</div>
+		</div>
+		<div ng-show="newPostClick" class="newPostContainer">
+			<mx-new-post></mx-new-post>
+		</div>
+	</div>
+
+
+	<div class="centerCatalog">
+			<ul class="catalogThreads">
+				<div ng-repeat="thread in threads" ng-init="image=thread.OPID">
+					<mx-thread-preview></mx-thread-preview>
+				</div>
+
+
+				<!-- <div ng-repeat="thread in threads" ng-init="image=thread.OPID">
+					
+					ATTRIBUTE USE - > put thread ID into that ID
+					GET IN SCOPE...
+					<mx-thread-preview id=""></mx-thread-preview>
+				
+				</div> -->
+
+
+			</ul>
+	</div>
+
+</div>	
