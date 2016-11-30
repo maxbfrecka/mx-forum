@@ -115,7 +115,7 @@ angular.module('catalog',[])
 			move_2: 55,
 			OP: 'anonymous',
 			summary: 'this is something I did today I am happy!',
-			ID: 'XADRPOA',
+			ID: 'XADBRPOA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -125,7 +125,7 @@ angular.module('catalog',[])
 			title: 'nice times',
 			OP: 'anonymous',
 			summary: 'asf is asdf I did asdfsadfa I am happy!',
-			ID: 'ARAOPSO',
+			ID: 'ARAOPHSO',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://jayarmstronggames.com/jagwp/wp-content/uploads/2012/11/Screen-shot-2012-11-21-at-19.32.50.png"
@@ -135,7 +135,7 @@ angular.module('catalog',[])
 			title: 'blah blah blah',
 			OP: 'John John',
 			summary: 'OK YALL I AM SO HAPY ABOUT THESE THREADS!!!!',
-			ID: 'FAREAREAFE',
+			ID: 'FAREARREAFE',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -145,7 +145,7 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADADAFDA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -155,7 +155,7 @@ angular.module('catalog',[])
 			title: 'cool thread',
 			OP: 'anonymous',
 			summary: 'this is something I did today I am happy!',
-			ID: 'XADRPOA',
+			ID: 'XADRPRROA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -165,7 +165,7 @@ angular.module('catalog',[])
 			title: 'nice times',
 			OP: 'anonymous',
 			summary: 'asf is asdf I did asdfsadfa I am happy!',
-			ID: 'ARAOPSO',
+			ID: 'ARAOTPSO',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -175,7 +175,7 @@ angular.module('catalog',[])
 			title: 'blah blah blah',
 			OP: 'John John',
 			summary: 'OK YALL I AM SO HAPY ABOUT THESE THREADS!!!!',
-			ID: 'FAREAREAFE',
+			ID: 'FAREARWWEAFE',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -185,7 +185,7 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADADQQADA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -197,7 +197,7 @@ angular.module('catalog',[])
 			move_2: 5,
 			OP: 'anonymous',
 			summary: 'this is something I did today I am happy!',
-			ID: 'XADRPOA',
+			ID: 'XADRPEREOA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -207,7 +207,7 @@ angular.module('catalog',[])
 			title: 'nice times',
 			OP: 'anonymous',
 			summary: 'asf is asdf I did asdfsadfa I am happy!',
-			ID: 'ARAOPSO',
+			ID: 'ARAOPSAAO',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -217,7 +217,7 @@ angular.module('catalog',[])
 			title: 'blah blah blah',
 			OP: 'John John',
 			summary: 'OK YALL I AM SO HAPY ABOUT THESE THREADS!!!!',
-			ID: 'FAREAREAFE',
+			ID: 'FQWEAREAREAFE',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -227,7 +227,7 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADUPADADA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -237,7 +237,7 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADAGGGGGGDADA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -247,7 +247,7 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADADAIOPDA',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
@@ -257,7 +257,17 @@ angular.module('catalog',[])
 			title: 'okkkkkkkkkk',
 			OP: 'Sally Henry',
 			summary: 'hello I am a girl and we love your site!',
-			ID: 'DADADADADA',
+			ID: 'DADADADALKDA',
+			postTime: post_time(),
+			randomColor: randomRGBcolor(),
+			img: "http://www.k9healthcentre.com/img/dog_running.jpg"
+		},
+		{
+			number: 8,
+			title: 'okkkkkkkkkk',
+			OP: 'Sally Henry',
+			summary: 'hello I am a girl and we love your site!',
+			ID: 'DADADAQDALKDADP',
 			postTime: post_time(),
 			randomColor: randomRGBcolor(),
 			img: "http://www.k9healthcentre.com/img/dog_running.jpg"

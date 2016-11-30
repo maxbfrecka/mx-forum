@@ -34,3 +34,9 @@ function rgb2hex(rgb){
   ("0" + parseInt(rgb[2],10).toString(16)).slice(-2) +
   ("0" + parseInt(rgb[3],10).toString(16)).slice(-2) : '';
 }
+
+
+
+function getRandomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+}

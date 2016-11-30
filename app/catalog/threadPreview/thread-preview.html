@@ -4,13 +4,17 @@
 	<div class="threadPreviewContent">
 
 		<img ng-show="thread.posts[0].image" src="{{thread.posts[0].image}}" alt="the image has failed miserably to load" width="120" height="120">
+
+
 		<!-- thread title  -->
 		<!-- <h3 class="previewTitle">{{thread.title}}</h3> -->		
 		
 <!-- 		<canvas id="image" ng-model="thread" width="100" height="100" style="border:1px solid red;">
 		</canvas> -->
-
-
+		<div ng-show="!thread.posts[0].image">
+			<mx-canvas-bot canvasid="{{thread.OPID}}" cbgc="{{thread.posts[0].cBGC}}" param-one={{thread.posts[0].cParam1}} param-two={{thread.posts[0].cParam2}} param-three={{thread.posts[0].cParam3}} param-four={{thread.posts[0].cParam4}} param-five={{thread.posts[0].cParam5}} crepone={{thread.posts[0].cRep1}} creptwo={{thread.posts[0].cRep2}} cparamaddone={{thread.posts[0].cParamAdd1}} cparamaddtwo={{thread.posts[0].cParamAdd2}} width={{120}} height={{120}}>
+			</mx-canvas-bot>
+		</div>
 <!-- 
 		<mx-image-bot></mx-image-bot>	 -->	
 	

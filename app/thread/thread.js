@@ -28,7 +28,6 @@ angular.module('thread',[])
 			function search(nameKey, myArray){
 				var array = []
 		    for (var i=0; i < myArray.length; i++) {
-		    		console.log('ID is' + myArray[i].OPID)
 		        if (myArray[i].OPID === nameKey) {
 		            array.push(myArray[i]);
 		        }

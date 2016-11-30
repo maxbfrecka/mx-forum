@@ -17,8 +17,7 @@
 
 
 
-		<div ng-repeat="thread in threads">
-			<p>C: {{thread.ID}}</p>
+		<span ng-repeat="thread in threads">
 
 			<mx-canvas-test canvasid="{{thread.ID}}" param-one={{thread.move_1}} param-two={{thread.move_2}}>
 			</mx-canvas-test>
@@ -27,4 +26,4 @@
 
 
 
-		</div>
+		</span>

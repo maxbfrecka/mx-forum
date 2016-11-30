@@ -40,7 +40,6 @@ angular.module('newPost', ['firebase'])
               _sendImage=vm.sendImage
             }*/
 
-          debugger
 
           vm.threads.$add({
             OPID: _OPID,
@@ -65,7 +64,17 @@ angular.module('newPost', ['firebase'])
               rID6t: randomRGBcolor(),
               rID7t: randomRGBcolor(),
               rID8t: randomRGBcolor(),
-              image: vm.sendImage || ''
+              image: vm.sendImage || '',
+              cParam1: getRandomNumber(0,20),
+              cParam2: getRandomNumber(0,20),
+              cParam3: getRandomNumber(0,20),
+              cParam4: getRandomNumber(0,20),
+              cParam5: getRandomNumber(0,10),
+              cRep1: getRandomNumber(5,30),
+              cRep2: getRandomNumber(5,30),
+              cParamAdd1: getRandomNumber(0,5),
+              cParamAdd2: getRandomNumber(0,5),
+              cBGC: rgb2hex(randomRGBcolor())
           }]});
           send.thread = '';
           $location.path('/' + _OPID);

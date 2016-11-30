@@ -113,8 +113,7 @@ click = show text box
 
 
 
-
--
+CANVAS IDS ARE GETTING MIXED UP, RENAME ID FOR PROGRAM TO WORK
 
 
 
